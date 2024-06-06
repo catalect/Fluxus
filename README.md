@@ -1,4 +1,4 @@
-# Fluxu# Fluxus
+# Fluxus
 
 Fluxus is a roblox enhancer which can provide level 8 execution.
 
